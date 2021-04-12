@@ -1,5 +1,33 @@
 # Coronavirus twitter analysis
 
+**Brief Explanation:**
+
+In this project, the MapReduce procedure is used to analyze geotagged tweets sent in 2020. The purpose of using this procedure in this analysis is to discover the location and language of each tweet. Moreover, the ```viz``` directory contains the count of the number of times that a specific hashtag appears regarding its location or language. For example, the ```'#coronavirus_country``` file returns the following results:
+```US : 225402
+   IN : 89063
+   GB : 66803
+   ES : 36080
+   IT : 35668
+   BR : 31637
+   AR : 30992
+   MX : 24146
+   FR : 22562
+   TR : 22172
+```
+Whereas, the ```'#coronavirus_lang'``` file returns:
+```en : 422394
+   es : 137714
+   und : 103249
+   it : 29812
+   pt : 28783
+   fr : 26349
+   tr : 18167
+   hi : 15943
+   de : 12156
+   nl : 9089
+```
+We see that in these files, the count for how many times #coronavirus appears in either certain countries or certain languages. It is also important to note that only the top ten highest occurences appear.
+
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
 
 **Due date:** 
