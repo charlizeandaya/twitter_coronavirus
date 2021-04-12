@@ -26,7 +26,7 @@ Whereas, the ```'#coronavirus_lang'``` file returns:
    de : 12156
    nl : 9089
 ```
-We see that in these files, the count for how many times #coronavirus appears in either certain countries or certain languages. It is also important to note that only the top ten highest occurences appear.
+We see that in these files, the count for how many times #coronavirus appears in either certain countries or certain languages.
 
 ---
 
