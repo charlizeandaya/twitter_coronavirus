@@ -28,6 +28,8 @@ Whereas, the ```'#coronavirus_lang'``` file returns:
 ```
 We see that in these files, the count for how many times #coronavirus appears in either certain countries or certain languages. It is also important to note that only the top ten highest occurences appear.
 
+---
+
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
 
 **Due date:** 
